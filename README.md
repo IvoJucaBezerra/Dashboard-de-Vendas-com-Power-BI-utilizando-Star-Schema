@@ -1,4 +1,7 @@
 # Dashboard de Vendas com Power BI utilizando Star Schema - NTT DATA
+
+![](https://github.com/julianazanelatto/power_bi_analyst/blob/main/M%C3%B3dulo%204/Desafios%20de%20Projeto/der_universidade.png)
+
 ````
 1. Identificação da Tabela Fato
 
