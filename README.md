@@ -120,4 +120,7 @@ Dimensão Curso
 Dimensão Data
 ````
 
+STAR SCHEMA
+![Star Schema](https://github.com/IvoJucaBezerra/Dashboard-de-Vendas-com-Power-BI-utilizando-Star-Schema/blob/main/star_schema-desafio1.png)
+
 
